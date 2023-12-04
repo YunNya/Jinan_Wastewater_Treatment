@@ -1,0 +1,52 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.3",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WN_01",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "GroupSelect",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/84f6582c5012464cb8e25bfbf9cc090e"
+		},
+		{
+			"Name": "EventsSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/92c5f7f264f94069bc5d9a6981117c52"
+		},
+		{
+			"Name": "ExecutableObjects",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/622465c26c704bba9870db7ecb9bfa59"
+		},
+		{
+			"Name": "Minimap",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/121e54a0e70b4f59a44cf026643f3bed"
+		},
+		{
+			"Name": "RTSUnitTemplate",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4b336b20be144255b04af1b4a31bf5eb"
+		},
+		{
+			"Name": "VariablesSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ba8559b2aa794f20b6e84e7ce338b96f"
+		}
+	]
+}
