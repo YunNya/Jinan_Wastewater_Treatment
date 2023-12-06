@@ -1,3 +1,3 @@
-# WN_01
+# Jinan_Wastewater_Treatment
 
-Developed with Unreal Engine 5
+Wastewater treatment and engineering controls
